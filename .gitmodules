@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aimPlot"]
+	path = aimPlot
+	url = https://github.com/ybkamaleri/aimplot
+	shallow = true
+	registered = true
+[submodule "rreg"]
+	path = rreg
+	url = https://github.com/ybkamaleri/rreg
+	shallow = true
+	registered = true

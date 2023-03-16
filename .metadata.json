@@ -1,0 +1,10 @@
+[
+  {
+    "package": "aimPlot",
+    "oncran": true
+  },
+  {
+    "package": "rreg",
+    "oncran": true
+  }
+]
